@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scorputer
 - 👀 I’m interested in using AI to accomplish new levels of productivity
-- 🌱 I’m currently learning effective prompting by producing a software product with ChatGPT
+- 🌱 I’m currently using ChatGPT to assist in current projects
 - 💞️ I’m looking to collaborate on using AI to create / enhance a business infrastructure
 - 📫 How to reach me ... send me a message
 
