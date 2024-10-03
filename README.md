@@ -3,12 +3,10 @@
 ## About Me
 👋 Hello, I'm William – also known as @scorputer on GitHub.
 
-As a seasoned developer with over 20 years of experience in technology, I am passionate about integrating Artificial Intelligence into the software development lifecycle. My goal is to leverage AI not just as a tool, but as a partner in the creative process, streamlining workflows and ushering in a new era of efficiency in software creation.
-
-Currently, my primary focus is on refining automation processes within software development, ensuring that these systems are stable, scalable, and truly augmentative. I'm always exploring cutting-edge applications of AI to push the boundaries of what we can achieve in development.
+As a seasoned developer with over 20 years of experience in technology, I am passionate about learning more by expererimenting with the integration of Artificial Intelligence into the software development lifecycle. My goal is to leverage AI as a tool for streamlining workflows for developing and testing.
 
 ## Collaboration
-💞️ I am open to collaborations that aim to harness AI for building or enhancing business infrastructures. Whether you're an individual developer, a startup, or part of a larger organization, I believe that together we can create solutions that are not only innovative but also practical and user-centric.
+💞️ I am open to collaborations that aim to harness AI for good. 
 
 If you're working on a project that could benefit from my expertise, or if you're interested in developing new methods of AI application in the industry, I’d love to hear from you.
 
