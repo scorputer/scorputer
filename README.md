@@ -3,7 +3,7 @@
 ## About Me
 👋 Hello, I'm William – also known as @scorputer on GitHub.
 
-As a seasoned developer with over 20 years of experience in technology, I am passionate about learning more by experimenting with the integration of Artificial Intelligence into the development lifecycle. My goal is to leverage AI as a tool for streamlining workflows for developing and testing of hardware software and firmware.
+As a developer with over 20 years of experience in technology validation, I am passionate about learning more by experimenting with the integration of Artificial Intelligence into the development lifecycle. My goal is to leverage AI as a tool for streamlining workflows for developing and testing of hardware software and firmware.  It has been a grueling but hopeful journey so far :-)
 
 ## Collaboration
 💞️ I am open to collaborations.
